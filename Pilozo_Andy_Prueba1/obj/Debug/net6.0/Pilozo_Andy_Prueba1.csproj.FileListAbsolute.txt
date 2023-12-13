@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\bin\Debug\net6.0\Pilozo_Andy_Prueba1.exe
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\bin\Debug\net6.0\Pilozo_Andy_Prueba1.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\bin\Debug\net6.0\Pilozo_Andy_Prueba1.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\bin\Debug\net6.0\Pilozo_Andy_Prueba1.dll
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\bin\Debug\net6.0\Pilozo_Andy_Prueba1.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.dll
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\refint\Pilozo_Andy_Prueba1.dll
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\Pilozo_Andy_Prueba1.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Pilozo_Andy_Prueba1\obj\Debug\net6.0\ref\Pilozo_Andy_Prueba1.dll
